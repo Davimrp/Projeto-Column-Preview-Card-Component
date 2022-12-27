@@ -1,0 +1,35 @@
+
+body{
+    height: 100%;
+}
+
+.container{
+    display: block;
+    height: 100%;
+    margin: 40px;
+}
+
+.box1{
+    border-radius:0;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.box3{
+    border-radius:0;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.box1, .box2, .box3{
+    height: 470px;
+    margin: 0;
+}
+
+.box{
+    height: 470px;
+}
+
+button{
+    margin: 0px;
+}
